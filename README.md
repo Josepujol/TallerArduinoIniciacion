@@ -14,5 +14,7 @@ Se incluye la presentación en diapositivas y los códigos y esquemas de ejemplo
   
 # Licencia
 El contenido del taller ha sido desarrollado por Jose Pujol y Jose Antonio Vacas. Los contenidos se distribuyen bajo Licencia Reconocimiento- Compartir Igual Creative Commons 4.0 
+
+<img src="By-sa.png" width="100" align="center">
   
   
