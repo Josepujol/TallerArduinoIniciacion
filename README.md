@@ -1,5 +1,5 @@
 # Taller de Iniciación a Arduino
-Taller de iniciación a Arduino para ser realizado entre 4 y 6h
+Taller de iniciación a Arduino para ser realizado entre 4 y 6h. 
 Se incluye la presentación en diapositivas y los códigos y esquemas de ejemplo a partir de los que se piden las modificaciones
 
 # Contenidos
