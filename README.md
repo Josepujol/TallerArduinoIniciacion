@@ -13,7 +13,7 @@ En el repositorio se incluye la presentación en diapositivas https://github.com
   - 5 Salidas Analógicas
   
 # Licencia
-El contenido del taller ha sido desarrollado por Jose Pujol y Jose Antonio Vacas. Los contenidos se distribuyen bajo Licencia Reconocimiento- Compartir Igual Creative Commons 4.0 
+El contenido del taller ha sido desarrollado por Jose Pujol y Jose Antonio Vacas, es un extracto del curso "The Tech Project: Arduino en el aula". Los contenidos se distribuyen bajo Licencia Reconocimiento- Compartir Igual Creative Commons 4.0 
 
 <img src="By-sa.png" width="100" align="center">
   
