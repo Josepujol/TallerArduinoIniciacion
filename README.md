@@ -4,8 +4,8 @@ En el repositorio se incluye la [presentación en diapositivas](https://github.c
 
 ## Contenidos
 1. Introducción a Arduino
-- 2 Conceptos Fundamentales
-- 3 Prácticas
+2. Conceptos Fundamentales
+3. Prácticas
   - 1 Hola Mundo
   - 2 Salidas Digitales
   - 3 Entradas Digitales
